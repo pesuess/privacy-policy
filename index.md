@@ -8,10 +8,10 @@ This Privacy Policy describes how **BAC Calculator Pro** (the “App”) process
 
 ## 1. Controller
 
-The data controller responsible for this App is:
+The data controller responsible for this App is: 
 
-Name: Peter Süßmeier
-Address: Neutorstraße 37, 55116 Mainz, Germany  
+Name: Peter Süßmeier 
+Address: Neutorstraße 37, 55116 Mainz, Germany 
 Email: pelucoding@gmail.com
 
 ---
