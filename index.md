@@ -2,59 +2,97 @@
 
 **Effective date:** 2025-12-27
 
-Thank you for using **BAC Calculator Pro** (the “App”).
-
-Your privacy is important to us. This Privacy Policy explains what data is (and is not) collected when you use the App.
+This Privacy Policy describes how **BAC Calculator Pro** (the “App”) processes personal data in accordance with the General Data Protection Regulation (GDPR / DSGVO).
 
 ---
 
-## 1. Data Collection
+## 1. Controller
 
-The App does **not collect, transmit, share, or sell any personal data** to any server or third party.
+The data controller responsible for this App is:
 
-All data you enter into the App is stored **locally on your device only**.
+Name: Peter Süßmeier
+Address: Neutorstraße 37, 55116 Mainz, Germany  
+Email: pelucoding@gmail.com
+
+---
+
+## 2. Data Processing Overview
+
+The App processes personal data **only locally on your device**.  
+No data is transmitted to any server, no cloud services are used, and no third parties receive any data.
 
 The App does not use:
 - User accounts
-- Online services
-- Cloud storage
+- Tracking technologies
 - Analytics services
 - Advertising services
-- Tracking technologies
 - Cookies
+- Online services
 
 ---
 
-## 2. Data You Provide
+## 3. Data You Provide
 
-The App allows you to enter the following information:
+You may enter the following data into the App:
 
 - Body weight  
 - Biological sex  
 - Consumed drinks (name, volume, alcohol content, time)
 
-This data is:
-- Used only to calculate estimated blood alcohol concentration (BAC)
-- Stored only locally on your device
-- Never transmitted off the device
-
-All locally stored data can be fully removed by uninstalling the App or clearing the App’s data in your device settings.
+This data is processed solely for the purpose of estimating blood alcohol concentration (BAC).
 
 ---
 
-## 3. Third-Party Services
+## 4. Purpose and Legal Basis
 
-The App does not integrate with any third-party services that collect personal data.
+**Purpose:**  
+Calculation and display of an estimated blood alcohol concentration.
 
-No data is shared with:
-- Advertisers
-- Analytics providers
-- Social networks
-- Cloud services
+**Legal basis:**  
+Article 6(1)(a) GDPR — consent by voluntarily using the App  
+Article 6(1)(b) GDPR — performance of the App’s function as requested by the user
 
 ---
 
-## 4. Disclaimer
+## 5. Storage and Retention
+
+All data is stored locally on your device.
+
+Data remains stored until:
+- you delete it within the App,
+- you clear the App’s data in your device settings, or
+- you uninstall the App.
+
+---
+
+## 6. Data Sharing
+
+No data is shared with third parties.
+
+---
+
+## 7. Your Rights
+
+You have the right to:
+
+- Access your data (Art. 15 GDPR)  
+- Rectification (Art. 16 GDPR)  
+- Erasure (Art. 17 GDPR)  
+- Restriction of processing (Art. 18 GDPR)  
+- Data portability (Art. 20 GDPR)  
+- Objection (Art. 21 GDPR)
+
+Since all data is stored locally, these rights can be exercised directly via the App or by removing the App.
+
+---
+
+## 10. Security
+
+All data is stored locally on the device and protected by the operating system’s standard security mechanisms.
+
+---
+
+## 11. Disclaimer
 
 The App provides only an **estimated value** based on the Widmark formula and standard assumptions.
 
@@ -62,14 +100,7 @@ The calculated values are not medically or legally accurate and must not be used
 
 ---
 
-## 5. Changes to This Privacy Policy
+## 12. Changes
 
-This Privacy Policy may be updated in the future. Any changes will be reflected on this page.
+This Privacy Policy may be updated if legal or technical changes occur. The current version will always be available at this location.
 
----
-
-## 6. Contact
-
-If you have any questions about this Privacy Policy, you can contact the developer at:
-
-**Email:** pelucoding@gmail.com
